@@ -1,0 +1,26 @@
+{
+  "name": "react-socket",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connorrhodes/react-socket.git"
+  },
+  "author": "Connor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/connorrhodes/react-socket/issues"
+  },
+  "homepage": "https://github.com/connorrhodes/react-socket#readme"
+}
